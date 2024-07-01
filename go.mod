@@ -1,5 +1,5 @@
 module github.com/QingsiLiu/terrors
 
-go 1.16
+go 1.22
 
 require github.com/pkg/errors v0.9.1
